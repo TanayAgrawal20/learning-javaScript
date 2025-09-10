@@ -8,7 +8,7 @@ const balance = new Number(100)
 //console.log(balance.toFixed(2));  // for decimal takes two places
 
 const otherNumber = 23.9648
-//console.log(otherNumber.toPrecision(3));
+console.log(otherNumber.toPrecision(3));
 
 const hundreds = 1000000;
 //console.log(hundreds.toLocaleString('en-IN'));
